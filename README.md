@@ -3,15 +3,16 @@
     <a href="https://doongu.tistory.com/category/Home"><img src="http://img.shields.io/badge/Blog-655ced?style=for-the-badge&color=5FC397" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
     </h3></p>
 
+<br>
+<br>
 
 
 
 
-
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=5FC397&height=100&text=Become%20a%20Backend%20engineer&fontColor=ffffff&fontSize=30)
-
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=5FC397&height=70&text=Become%20a%20Backend%20engineer&fontColor=ffffff&fontSize=30)
 
 
+<br>
 
 
 <h3>About me</h3>
