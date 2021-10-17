@@ -4,15 +4,13 @@
 
 <br>
 
-<p><h2 style="display:inline">
+<p><h1 style="display:inline">
     👋 doongu's
-    <a href="https://doongu.tistory.com/category/Home"><img src="http://img.shields.io/badge/Blog-655ced?style=for-the-badge&color=5FC397" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
-    </h2></p>
-
+    
+    </h1></p>
+<a href="https://doongu.tistory.com/category/Home"><img src="http://img.shields.io/badge/Blog-655ced?style=for-the-badge&color=5FC397" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <br>
 
-
-<br>
 
 
 <h3>About me</h3>
@@ -23,7 +21,7 @@
 
 - <h4>I have a lot of freelance experience and web project development through PYTHON.<h4>
 
-
+<br>
 
 <p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
