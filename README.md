@@ -16,18 +16,8 @@
 - <h4>I have a lot of freelance experience and web project development through PYTHON.<h4>
  
 
-<p>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=doongu&show_icons=true&theme=vue&bg_color=FFFFFF,FFFFFF,FFFFFF,FFFFFF,FFFFFF,FFFFFF,ccf7c9,ccf7c9,ccf7c9,ccf7c9&icon_color=FFFFFF&border_color=39de94" />
-</a>
-    <a href="https://github.com/anuraghazra/convoychat">
-  <img  height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doongu&layout=compact&title_color=4ABB88&border_color=39de94" />
-        <a href="https://github.com/anuraghazra/convoychat">
-    </a></p>
- 
- 
-
-> <h4>I have experience in deploying services, and I use them often. I also have experience in customizing 🥰.</h4>
+<br>
+ > <h4>I have experience in deploying services, and I use them often. I also have experience in customizing 🥰.</h4>
 
 <p align="center">
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
@@ -75,5 +65,18 @@
 <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" style="height : auto; margin-left : 10px; margin-right : 10px;width"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;width"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></p>
+
+ <br>
+<p>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=doongu&show_icons=true&theme=vue&bg_color=FFFFFF,FFFFFF,FFFFFF,FFFFFF,FFFFFF,FFFFFF,ccf7c9,ccf7c9,ccf7c9,ccf7c9&icon_color=FFFFFF&border_color=39de94" />
+</a>
+    <a href="https://github.com/anuraghazra/convoychat">
+  <img  height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doongu&layout=compact&title_color=4ABB88&border_color=39de94" />
+        <a href="https://github.com/anuraghazra/convoychat">
+    </a></p>
+ 
+ 
+
 
 
