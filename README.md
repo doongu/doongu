@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=5FC397&height=40&text=Become%20a%20Backend%20engineer&fontColor=ffffff&fontSize=17)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=5FC397&height=45&text=Become%20a%20Backend%20engineer&fontColor=ffffff&fontSize=25)
 
 
 <h2>👋 doongu's</h2>
@@ -16,7 +16,6 @@
 
 - <h4>I have a lot of freelance experience and web project development through PYTHON.<h4>
 
-<br>
 
 <p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
