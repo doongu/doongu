@@ -63,17 +63,17 @@
 > <h4>Haven't tried it yet, but am willing to learn 🤔.</h4>
  
  
-<p align="center"><img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;width:80px;"/>
- <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;width:80px;"/>
- <img src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;width:80px;"/>
- <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;width:80px;"/></p>
+<p align="center"><img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;width:80%;"/>
+ <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;width:80%;"/>
+ <img src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;width:80%;"/>
+ <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;width:80%;"/></p>
 
 
 > <h4> Most used tools 😛. </h4>
 
-<p align="center"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;width:80px;"/>
-<img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" style="height : auto; margin-left : 10px; margin-right : 10px;width:80px;"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;width:80px;"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;width:80px;"/></p>
+<p align="center"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;width:80%;"/>
+<img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" style="height : auto; margin-left : 10px; margin-right : 10px;width:80%;"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;width:80%;"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;width:80%;"/></p>
 
 
