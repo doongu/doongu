@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=5FC397&height=60&text=Become%20a%20Backend%20engineer&fontColor=ffffff&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=5FC397&height=40&text=Become%20a%20Backend%20engineer&fontColor=ffffff&fontSize=17)
 
 
 <h1 style="display:inline">👋 doongu's</h1>
