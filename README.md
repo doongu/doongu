@@ -1,10 +1,11 @@
+
 <p><h3 style="display:inline">
     👋 doongu's
     <a href="https://doongu.tistory.com/category/Home"><img src="http://img.shields.io/badge/Blog-655ced?style=for-the-badge&color=5FC397" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
     </h3></p>
 
-
-
+<br>
+<br>
 
 
 
@@ -14,13 +15,13 @@
 
 
 
-<h3>About me</h3>
+<h5>About me</h5>
 
-- <h4>I'm a university student<h4>
+- <h6>I'm a university student<h6>
 
-- <h4>I like Python<h4>
+- <h6>I like Python<h6>
 
-- <h4>I have a lot of freelance experience and web project development through PYTHON.<h4>
+- <h6>I have a lot of freelance experience and web project development through PYTHON.<h6>
 
 
 
@@ -32,3 +33,6 @@
   <img  height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doongu&layout=compact&title_color=4ABB88&border_color=39de94" />
         <a href="https://github.com/anuraghazra/convoychat">
     </a></p>
+
+
+
