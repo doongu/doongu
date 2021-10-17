@@ -4,7 +4,6 @@
 
 <h2>👋 doongu's</h2>
 <p align="center"><a href="https://doongu.tistory.com/category/Home"><img src="http://img.shields.io/badge/Blog-655ced?style=for-the-badge&color=5FC397" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a></p>
-<br>
 
 
 
