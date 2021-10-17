@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=5FC397&height=40&text=Become%20a%20Backend%20engineer&fontColor=ffffff&fontSize=17)
 
 
-<h1 style="display:inline">👋 doongu's</h1>
+<h2>👋 doongu's</h2>
 <p align="center"><a href="https://doongu.tistory.com/category/Home"><img src="http://img.shields.io/badge/Blog-655ced?style=for-the-badge&color=5FC397" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a></p>
 <br>
 
