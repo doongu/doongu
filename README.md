@@ -7,16 +7,8 @@
 
  
 
-<h3>About me</h3>
+<h3>About my stack</h3>
 
-- <h4>I'm a university student<h4>
-
-- <h4>I like Python<h4>
-
-- <h4>I have a lot of freelance experience and web project development through PYTHON.<h4>
- 
-
-<br>
  
 > <h4>I have experience in deploying services, and I use them often. I also have experience in customizing 🥰.</h4>
 
