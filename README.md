@@ -43,5 +43,3 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=5FC397&height=40&reversal=true&section=footer)
-
