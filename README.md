@@ -61,12 +61,9 @@
 
 
 > <h4>Haven't tried it yet, but am willing to learn 🤔.</h4>
-
-<p align="center">
-<img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<img src="	https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
- <img src="	https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<img src="	https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></p>
+ 
+ 
+<p align="center"><img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/><img src="	https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/><img src="	https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/><img src="	https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></p>
 
 
 > <h4> Most used tools 😛. </h4>
