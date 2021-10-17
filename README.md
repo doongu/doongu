@@ -67,7 +67,7 @@
         <a href="https://github.com/anuraghazra/convoychat">
     </a></p>
  
- ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=5FC397&height=15) 
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=5FC397&height=25) 
 
  
 
