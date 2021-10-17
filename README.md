@@ -73,7 +73,7 @@
 
 <p align="center"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<img src="	https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<img src="		https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></p>
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></p>
 
 
