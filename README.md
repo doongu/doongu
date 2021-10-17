@@ -1,5 +1,5 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=5FC397&height=20&text=Become%20a%20Backend%20engineer&fontColor=ffffff&fontSize=13) -->
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=5FC397&height=15&height=20&text=doongu's's&fontColor=ffffff&fontSize=13) 
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=5FC397&height=15&height=20&text=doongus&fontColor=ffffff&fontSize=13) 
 
 <p align="right"><a href="https://doongu.tistory.com/category/Home"><img src="http://img.shields.io/badge/Blog-655ced?style=for-the-badge&color=5FC397" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a></p>
 
