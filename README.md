@@ -8,7 +8,7 @@
 <h3>About my stack</h3>
 
  
-> <h4>I have experience in deploying services, and I use them often. I also have experience in customizing 🥰.</h4>
+> <h4>I have experience in deploying services, and I use them often. I also have experience in customizing😘.</h4>
 
 <p align="center">
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
