@@ -7,7 +7,7 @@
 <br>
 <br>
 
-<p align="center"><a href="https://doongu.notion.site/"><img src="http://img.shields.io/badge/Click !-655ced?style=for-the-badge&color=252525" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a></p>
+<p align="center"><a href="https://doongu.notion.site/"><img src="http://img.shields.io/badge/It's me ! -655ced?style=for-the-badge&color=252525" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a></p>
 
 <br>
 <br>
